@@ -57,7 +57,7 @@ Two distinct modeling approaches were used:
 
 `git clone https://github.com/SaniyaAbushakimova/Ames-Housing-Price-Prediction.git`
 
-`cd Ames-Housing-Price-Prediction/proj1/fold1`
+`cd Ames-Housing-Price-Prediction/proj1/foldX`
 
 **2. Run the model script to train models and generate predictions:**
    
