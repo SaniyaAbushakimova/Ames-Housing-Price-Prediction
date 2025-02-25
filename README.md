@@ -55,7 +55,8 @@ Two distinct modeling approaches were used:
 ## How to Run the Code
 1.	Clone the repository:
 
-`git clone https://github.com/SaniyaAbushakimova/Ames-Housing-Price-Prediction.git` \
+`git clone https://github.com/SaniyaAbushakimova/Ames-Housing-Price-Prediction.git`
+
 `cd Ames-Housing-Price-Prediction`
 
 3. Run the model script to train models and generate predictions:
@@ -63,4 +64,5 @@ Two distinct modeling approaches were used:
 `python house_price_model.py`
 
 5. Open the Jupyter Notebook to explore EDA and experiments:
+
 `jupyter notebook house_price_EDA.ipynb`
