@@ -32,9 +32,9 @@ The EDA was conducted in `house_price_EDA.ipynb` and includes:
 
 * **Data Cleaning**: Handling missing values, removing inconsistencies
 * **Feature Engineering**:
-  - One-hot encoding categorical variables
+	- One-hot encoding categorical variables
 	- Log transformation for skewed variables
-  - Standardization of numerical features
+	- Standardization of numerical features
 * **Outlier Detection**: Using boxplots and winsorization
 * **Feature Selection**: Identifying correlated features and eliminating redundancy
 
