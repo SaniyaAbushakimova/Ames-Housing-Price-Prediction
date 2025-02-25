@@ -53,11 +53,11 @@ Two distinct modeling approaches were used:
 * CatBoost RMSE: 0.1191 (best)
 
 ## How to Run the Code
-**1.	Clone the repository:**
+**1.	Clone the repository yand navigate to one of the project directories:**
 
 `git clone https://github.com/SaniyaAbushakimova/Ames-Housing-Price-Prediction.git`
 
-`cd Ames-Housing-Price-Prediction`
+`cd Ames-Housing-Price-Prediction/proj1/fold1`
 
 **2. Run the model script to train models and generate predictions:**
    
